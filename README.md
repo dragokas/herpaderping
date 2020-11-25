@@ -1,4 +1,7 @@
 # Process Herpaderping 
+
+[![Build status](https://ci.appveyor.com/api/projects/status/5x7t7a2q8wlg6105?svg=true)](https://ci.appveyor.com/project/malwarezone/herpaderping)
+
 [<img align="left" style="margin: 0px 15px 15px 0px;" src="res/HerpaderpIcon.png" width="150"/>][png.HerpaderpIcon]
 Process Herpaderping is a method of obscuring the intentions of a process by 
 modifying the content on disk after the image has been mapped. This results 
