@@ -23,3 +23,6 @@ set (hdrs
 )
 
 add_executable ( ${PROJECT_NAME} ${hdrs} ${srcs} ${rsrc} main.cpp )
+
+# dependencies: WIL
+add_dependencies( ${PROJECT_NAME} WIL )
